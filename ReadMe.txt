@@ -8,4 +8,8 @@ being that the files are "safe" and synchronised
 and the a hard disk crash or other local machine
 problem does not take my files with it.
 Of course, github provides this for my committed
-files anyway,
+files anyway.
+This repository is for general Arduino info, I 
+will create individual repositories for each 
+project.  Will investigate the "best practice"
+for this by viewing others setups.
